@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there �
+My name is Fadil and I am a Freshman at the Univeristy of Calgary�majoring in Data Science!
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 <!--
 **fadilgbon/fadilgbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
